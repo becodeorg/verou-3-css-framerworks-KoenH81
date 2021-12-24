@@ -1,3 +1,8 @@
 body{
     background-color: #E6EFF6;
 }
+a{
+    color: gray;
+    text-decoration: none;
+    font-weight: bold;
+}
